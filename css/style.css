@@ -138,6 +138,12 @@ input[type="color"]::-webkit-color-swatch {
     padding: 10px 30px;
 }
 
+.color__btn-change--active{
+    background-color: #000;
+    color: #fff;
+}
+
+
 
 .square{
    margin-left: 90px;
